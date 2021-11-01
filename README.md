@@ -9,3 +9,9 @@ The output of the project is two files (results.json, and human_readable_result.
 run "python install -r requirements.txt"<br>
 run "python -m nltk.downloader vader_lexicon"<br>
 run "python -m nltk.downloader names"<br>
+
+## Github Link
+
+https://github.com/JipengSun/The_Golden_Globes_Mining
+
+- Aaron Cooper & Jipeng Sun
