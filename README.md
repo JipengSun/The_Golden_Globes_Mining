@@ -14,4 +14,4 @@ run "python -m nltk.downloader names"<br>
 
 https://github.com/JipengSun/The_Golden_Globes_Mining
 
-- Jipeng Sun& Aaron Cooper
+- Jipeng Sun & Aaron Cooper
