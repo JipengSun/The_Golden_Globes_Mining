@@ -3,65 +3,89 @@ Most Mentioned on Red Carpet: Kerry Washington
 Best Dressed on Red Carpet: Tina Fey
 Worst Dressed on Red Carpet: Lana Del
 
-Award Name: Best Director - Motion Picture
-Presenter: Harrison Ford
-Nominess: ['Richard Linklater', 'Ava Du', 'Wes Anderson', 'David Fincher', 'Alejandro Gonz']
-Winner: Richard Linklater
-Attitude to Winner: {'Neutral': 0.8304600000000008, 'Positive': 0.16565000000000005, 'Negative': 0.0038900000000000002}
+Award Name: Cecil B. Demille Award
+Presenter: George Clooney
+Nominess: ['"Great Friend"', '"The Facts Of Life"']
+Winner: "Great Friend"
+Attitude to Winner: {'Neutral': 0.4413333333333333, 'Positive': 0.4096666666666667, 'Negative': 0.149}
 
-Award Name: Best Actor - Motion Picture Drama
-Presenter: Gwyneth Paltrow
-Nominess: ['Eddie Redmanye', 'David Oyelowo', 'Jake Gyllenhaal', 'Benedict Cumberbatch', 'Steve Carell']
-Winner: Eddie Redmanye
-Attitude to Winner: {'Neutral': 0.76865, 'Positive': 0.23135000000000036, 'Negative': 0.0}
-
-Award Name: Best Actress - Motion Picture Drama
-Presenter: Jamie Dornan
-Nominess: ['Julianne Moore', 'Jennifer Aniston', 'Patricia Arquette', 'Rosamund Pike', 'Felicity Jones']
-Winner: Julianne Moore
-Attitude to Winner: {'Neutral': 0.8387900000000004, 'Positive': 0.1251099999999999, 'Negative': 0.03609}
-
-Award Name: Best Actress - Motion Picture Comedy / Musical
-Presenter: Ricky Gervais
-Nominess: ['Amy Adams', 'Marilyn Monroe', 'Helen Mirren', 'Julianne Moore', 'Emily Blunt']
-Winner: Amy Adams
-Attitude to Winner: {'Neutral': 0.7875899999999997, 'Positive': 0.19375000000000003, 'Negative': 0.01866}
-
-Award Name: Best Actress - Tv Series Drama
-Presenter: Chris Pratt
-Nominess: ['Ruth Wilson', 'Tatiana Maslany', 'Chris Pratt', 'Viola Davis', 'Julianna Marguiles']
-Winner: Ruth Wilson
-Attitude to Winner: {'Neutral': 0.7812499999999999, 'Positive': 0.13137000000000001, 'Negative': 0.08735}
-
-Award Name: Best Actor Comedy / Musical
-Presenter: Kristen Wiig
-Nominess: ['Jeffrey Tambor', 'Michael Keaton', 'Bill Murray', 'Ralph Fiennes', 'Emily Blunt']
-Winner: Jeffrey Tambor
-Attitude to Winner: {'Neutral': 0.7165600000000001, 'Positive': 0.2536899999999999, 'Negative': 0.02974}
-
-Award Name: Best Motion Picture Drama
+Award Name: Best Motion Picture - Drama
 Presenter: Tina Fey
 Nominess: ['"Boyhood"', '"Selma"', '"The Grand Budapest Hotel"', '"Best Drama Motion Picture"', '"Theory Of Everything"']
 Winner: "Boyhood"
 Attitude to Winner: {'Neutral': 0.8185999999999994, 'Positive': 0.1765100000000005, 'Negative': 0.00489}
 
-Award Name: Best Motion Picture Comedy / Musical
+Award Name: Best Performance By An Actress In A Motion Picture - Drama
+Presenter: Jamie Dornan
+Nominess: ['Julianne Moore', 'Jennifer Aniston', 'Patricia Arquette', 'Rosamund Pike', 'Felicity Jones']
+Winner: Julianne Moore
+Attitude to Winner: {'Neutral': 0.8387900000000004, 'Positive': 0.1251099999999999, 'Negative': 0.03609}
+
+Award Name: Best Performance By An Actor In A Motion Picture - Drama
+Presenter: Gwyneth Paltrow
+Nominess: ['Eddie Redmanye', 'David Oyelowo', 'Jake Gyllenhaal', 'Benedict Cumberbatch', 'Gwyneth Paltrow']
+Winner: Eddie Redmanye
+Attitude to Winner: {'Neutral': 0.76865, 'Positive': 0.23135000000000036, 'Negative': 0.0}
+
+Award Name: Best Motion Picture - Comedy Or Musical
 Presenter: Robert Downey
 Nominess: ['"The Grand Budapest Hotel"', '"Grand Budapest Hotel"']
 Winner: "The Grand Budapest Hotel"
 Attitude to Winner: {'Neutral': 0.5413600000000003, 'Positive': 0.42213000000000006, 'Negative': 0.03650999999999998}
 
-Award Name: Best Actress - Comedy
-Presenter: Kate Beckinsale
-Nominess: ['Gina Rodriguez', 'Jane The', 'Tony Smith', 'Amy Adams', 'Kerry Washington']
-Winner: Gina Rodriguez
-Attitude to Winner: {'Neutral': 0.7969499999999996, 'Positive': 0.19201000000000004, 'Negative': 0.01104}
+Award Name: Best Performance By An Actress In A Motion Picture - Comedy Or Musical
+Presenter: Ricky Gervais
+Nominess: ['Amy Adams', 'Marilyn Monroe', 'Helen Mirren', 'Julianne Moore', 'Emily Blunt']
+Winner: Amy Adams
+Attitude to Winner: {'Neutral': 0.7875899999999997, 'Positive': 0.19375000000000003, 'Negative': 0.01866}
 
-Award Name: Best Actor Tv Series Drama
-Presenter: Katherine Heigl
-Nominess: ['Kevin Spacey', 'Clive Owen', 'James Spader', 'Dominic West', 'Frank Underwood']
-Winner: Kevin Spacey
-Attitude to Winner: {'Neutral': 0.8545999999999999, 'Positive': 0.08818000000000001, 'Negative': 0.057229999999999996}
+Award Name: Best Performance By An Actor In A Motion Picture - Comedy Or Musical
+Presenter: Prince Presented
+Nominess: ['Michael Keaton', 'Bill Murray', 'Amy Adams', 'Ralph Fiennes', 'Jeffrey Tambor']
+Winner: Michael Keaton
+Attitude to Winner: {'Neutral': 0.8085799999999999, 'Positive': 0.15875000000000003, 'Negative': 0.03266}
+
+Award Name: Best Animated Feature Film
+Presenter: Kristen Wiig
+Nominess: ['"Best Animated Film"', '"Best Animated Feature Film"', '"Big Heroes"', '"The Lego Movie"']
+Winner: "Best Animated Film"
+Attitude to Winner: {'Neutral': 0.6192, 'Positive': 0.3346, 'Negative': 0.046}
+
+Award Name: Best Foreign Language Film
+Presenter: Jennifer Aniston
+Nominess: ['"Leviathan"', '"Ida"', '"Best Foreign Language Film"', '"Tangerine"']
+Winner: "Leviathan"
+Attitude to Winner: {'Neutral': 0.6103200000000006, 'Positive': 0.3842199999999998, 'Negative': 0.00545}
+
+Award Name: Best Performance By An Actress In A Supporting Role In A Motion Picture
+Presenter: Jared Leto
+Nominess: ['Patricia Arquette', 'Joanne Froggatt', 'Emma Stone', 'Jared Leto', 'Jessica Chastain']
+Winner: Patricia Arquette
+Attitude to Winner: {'Neutral': 0.8491499999999997, 'Positive': 0.13188999999999995, 'Negative': 0.018960000000000005}
+
+Award Name: Best Performance By An Actor In A Supporting Role In A Motion Picture
+Presenter: Benedict Cumberbatch
+Nominess: ['Robert Duvall', 'Ben Affleck', 'Jennifer Aniston', 'Ethan Hawke', 'Edward Norton']
+Winner: Robert Duvall
+Attitude to Winner: {'Neutral': 0.97753, 'Positive': 0.02247, 'Negative': 0.0}
+
+Award Name: Best Director - Motion Picture
+Presenter: Harrison Ford
+Nominess: ['Richard Linklater', 'Ava Du', 'Wes Anderson', 'Ethan Haw', 'David Fincher']
+Winner: Richard Linklater
+Attitude to Winner: {'Neutral': 0.8304600000000008, 'Positive': 0.16565000000000005, 'Negative': 0.0038900000000000002}
+
+Award Name: Best Screenplay - Motion Picture
+Presenter: Kristen Wiig
+Nominess: ['"Birdman"', '"The Grand Budapest Hotel"', '"Boyhood"']
+Winner: "Birdman"
+Attitude to Winner: {'Neutral': 0.87702, 'Positive': 0.11112999999999999, 'Negative': 0.011850000000000001}
+
+Award Name: Best Original Score - Motion Picture
+Presenter: Gina Rodriguez
+Nominess: ['"The Theory Of Everything"', '"Glory"']
+Winner: "The Theory Of Everything"
+Attitude to Winner: {'Neutral': 0.7035100000000007, 'Positive': 0.28577999999999976, 'Negative': 0.010709999999999999}
 
 Award Name: Best Original Song - Motion Picture
 Presenter: John Legend
@@ -69,81 +93,51 @@ Nominess: ['"Glory"', '"Selma"', '"Prediction"']
 Winner: "Glory"
 Attitude to Winner: {'Neutral': 0.64007, 'Positive': 0.35770000000000024, 'Negative': 0.0022400000000000002}
 
-Award Name: Best Screenplay Award
-Presenter: Kristen Wiig
-Nominess: ['"Birdman"', '"Gone Girl"']
-Winner: "Birdman"
-Attitude to Winner: {'Neutral': 0.87702, 'Positive': 0.11112999999999999, 'Negative': 0.011850000000000001}
-
-Award Name: Best Supporting Actress - Tv Movie Series / Miniseries
-Presenter: Benedict Cumberbatch
-Nominess: ['Joanne Froggatt']
-Winner: Joanne Froggatt
-Attitude to Winner: {'Neutral': 0.6716600000000006, 'Positive': 0.32834000000000046, 'Negative': 0.0}
-
-Award Name: Best Tv Series Drama
+Award Name: Best Television Series - Drama
 Presenter: Paul Rudd
-Nominess: ['"The Affair"', '"The Good Wife"', '"X"']
+Nominess: ['"The Affair"', '"Boyhood"', '"The Good Wife"', '"Hannibal"', '"The Lego Movie"']
 Winner: "The Affair"
 Attitude to Winner: {'Neutral': 0.6995899999999999, 'Positive': 0.28191999999999995, 'Negative': 0.018490000000000003}
 
-Award Name: Best Actress - Miniseries / Tv Movie
-Presenter: Benedict Cumberbatch
-Nominess: ['Joanne Froggatt']
-Winner: Joanne Froggatt
-Attitude to Winner: {'Neutral': 0.6716600000000006, 'Positive': 0.32834000000000046, 'Negative': 0.0}
+Award Name: Best Performance By An Actress In A Television Series - Drama
+Presenter: Chris Pratt
+Nominess: ['Ruth Wilson', 'Chris Pratt', 'Anna Faris', 'Viola Davis', 'Robin Wright']
+Winner: Ruth Wilson
+Attitude to Winner: {'Neutral': 0.7812499999999999, 'Positive': 0.13137000000000001, 'Negative': 0.08735}
 
-Award Name: Best Actor - Tv Comedy
+Award Name: Best Performance By An Actor In A Television Series - Drama
+Presenter: Katherine Heigl
+Nominess: ['Kevin Spacey', 'David Duchovny', 'James Spader', 'Clive Owen', 'Dominic West']
+Winner: Kevin Spacey
+Attitude to Winner: {'Neutral': 0.8545999999999999, 'Positive': 0.08818000000000001, 'Negative': 0.057229999999999996}
+
+Award Name: Best Television Series - Comedy Or Musical
+Presenter: Gina Rodriguez
+Nominess: ['"Transparent"', '"Transformation"', '"The Grand Budapest Hotel"']
+Winner: "Transparent"
+Attitude to Winner: {'Neutral': 0.51237, 'Positive': 0.4829600000000001, 'Negative': 0.00468}
+
+Award Name: Best Performance By An Actress In A Television Series - Comedy Or Musical
+Presenter: Gina Rodriguez
+Nominess: ['Gina Rodriguez', 'Jane The', 'Julia Louis', 'Lena Dunham', 'Edie Falco']
+Winner: Gina Rodriguez
+Attitude to Winner: {'Neutral': 0.7969499999999996, 'Positive': 0.19201000000000004, 'Negative': 0.01104}
+
+Award Name: Best Performance By An Actor In A Television Series - Comedy Or Musical
 Presenter: Kristen Wiig
-Nominess: ['Jeffrey Tambor', 'Don Cheadle', 'Louis C', 'William H', 'Ricky Gervais']
+Nominess: ['Jeffrey Tambor', 'William H', 'Don Cheadle', 'Louis C', 'Ricky Gervais']
 Winner: Jeffrey Tambor
 Attitude to Winner: {'Neutral': 0.7165600000000001, 'Positive': 0.2536899999999999, 'Negative': 0.02974}
 
-Award Name: Best Actor - Miniseries / Tv Movie
-Presenter: Jeremy Renner
-Nominess: ['Billy Bob', 'Martin Freeman', 'Jeremy Renner', 'Thornton I']
-Winner: Billy Bob
-Attitude to Winner: {'Neutral': 0.77338, 'Positive': 0.17673999999999995, 'Negative': 0.0499}
+Award Name: Best Performance By An Actress In A Mini-series Or Motion Picture Made For Television
+Presenter: Tina Fey
+Nominess: ['Maggie Gyllenhaal', 'Joanne Froggatt']
+Winner: Maggie Gyllenhaal
+Attitude to Winner: {'Neutral': 0.8238700000000005, 'Positive': 0.14888, 'Negative': 0.027249999999999996}
 
-Award Name: Best Supporting Actress - Motion Picture
-Presenter: Jared Leto
-Nominess: ['Patricia Arquette', 'Joanne Froggatt', 'Jared Leto', 'Emma Stone', 'Jessica Chastain']
-Winner: Patricia Arquette
-Attitude to Winner: {'Neutral': 0.8491499999999997, 'Positive': 0.13188999999999995, 'Negative': 0.018960000000000005}
-
-Award Name: Best Actor - Mini-series / Tv Movie
-Presenter: Gina Rodriguez
-Nominess: ['Billy Bob', 'Matt Bomer', 'Thornton Wins', 'Matthew Mc', 'Jeremy Renner']
-Winner: Billy Bob
-Attitude to Winner: {'Neutral': 0.77338, 'Positive': 0.17673999999999995, 'Negative': 0.0499}
-
-Award Name: Best Supporting Actor - Series Mini-series / Tv Movie
+Award Name: Best Performance By An Actor In A Mini-series Or Motion Picture Made For Television
 Presenter: Katie Holmes
-Nominess: ['Matt Bomer', 'Bill Murray', 'Angelina Jolie', 'Mark Ruffalo']
-Winner: Matt Bomer
-Attitude to Winner: {'Neutral': 0.8582400000000001, 'Positive': 0.11691999999999993, 'Negative': 0.024849999999999997}
-
-Award Name: Best Actress - Motion Picture
-Presenter: Ricky Gervais
-Nominess: ['Amy Adams', 'Joanne Froggatt', 'Marilyn Monroe', 'Jennifer Aniston', 'Julianne Moore']
-Winner: Amy Adams
-Attitude to Winner: {'Neutral': 0.7875899999999997, 'Positive': 0.19375000000000003, 'Negative': 0.01866}
-
-Award Name: Best Actor - Series
-Presenter: Jeremy Renner
-Nominess: ['Billy Bob', 'James Spader', 'Jamie Dorman', 'Kevin Spacey', 'Mark Ruffalo']
+Nominess: ['Billy Bob', 'Matt Bomer']
 Winner: Billy Bob
 Attitude to Winner: {'Neutral': 0.77338, 'Positive': 0.17673999999999995, 'Negative': 0.0499}
-
-Award Name: Best Screenplay
-Presenter: Kristen Wiig
-Nominess: ['"Birdman"', '"Good Will Hunting"', '"Gone Girl"', '"Best Screenplay"', '"The Imitation Game"']
-Winner: "Birdman"
-Attitude to Winner: {'Neutral': 0.87702, 'Positive': 0.11112999999999999, 'Negative': 0.011850000000000001}
-
-Award Name: Best Screenplay Golden Globe
-Presenter: Kristen Wiig
-Nominess: ['"Birdman"', '"Good Will Hunting"', '"Gone Girl"', '"Best Screenplay"', '"On Your Feet"']
-Winner: "Birdman"
-Attitude to Winner: {'Neutral': 0.87702, 'Positive': 0.11112999999999999, 'Negative': 0.011850000000000001}
 
