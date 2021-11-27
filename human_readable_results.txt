@@ -5,15 +5,15 @@ Worst Dressed on Red Carpet: Lana Del
 
 Award Name: Cecil B. Demille Award
 Presenter: George Clooney
-Nominess: ['"Great Friend"', '"The Facts Of Life"']
-Winner: "Great Friend"
-Attitude to Winner: {'Neutral': 0.4413333333333333, 'Positive': 0.4096666666666667, 'Negative': 0.149}
+Nominess: ["'The Affair'", '"Great Friend"', '"The Facts Of Life"']
+Winner: 'The Affair'
+Attitude to Winner: {'Neutral': 0.6847500000000002, 'Positive': 0.2543000000000002, 'Negative': 0.06096999999999999}
 
 Award Name: Best Motion Picture - Drama
 Presenter: Tina Fey
-Nominess: ['"Boyhood"', '"Selma"', '"The Grand Budapest Hotel"', '"Best Drama Motion Picture"', '"Theory Of Everything"']
-Winner: "Boyhood"
-Attitude to Winner: {'Neutral': 0.8185999999999994, 'Positive': 0.1765100000000005, 'Negative': 0.00489}
+Nominess: ["'Boyhood'", '"Boyhood"', '"Selma"', "'Boyhooyd'", '"The Grand Budapest Hotel"']
+Winner: 'Boyhood'
+Attitude to Winner: {'Neutral': 0.8026500000000012, 'Positive': 0.19735000000000016, 'Negative': 0.0}
 
 Award Name: Best Performance By An Actress In A Motion Picture - Drama
 Presenter: Jamie Dornan
@@ -29,9 +29,9 @@ Attitude to Winner: {'Neutral': 0.76865, 'Positive': 0.23135000000000036, 'Negat
 
 Award Name: Best Motion Picture - Comedy Or Musical
 Presenter: Robert Downey
-Nominess: ['"The Grand Budapest Hotel"', '"Grand Budapest Hotel"']
-Winner: "The Grand Budapest Hotel"
-Attitude to Winner: {'Neutral': 0.5413600000000003, 'Positive': 0.42213000000000006, 'Negative': 0.03650999999999998}
+Nominess: ["'The Grand Budapest Hotel'", '"The Grand Budapest Hotel"', '"Grand Budapest Hotel"', "'Birdman'", "'Into The Woods'"]
+Winner: 'The Grand Budapest Hotel'
+Attitude to Winner: {'Neutral': 0.45446999999999993, 'Positive': 0.5403900000000005, 'Negative': 0.0051400000000000005}
 
 Award Name: Best Performance By An Actress In A Motion Picture - Comedy Or Musical
 Presenter: Ricky Gervais
@@ -47,15 +47,15 @@ Attitude to Winner: {'Neutral': 0.8085799999999999, 'Positive': 0.15875000000000
 
 Award Name: Best Animated Feature Film
 Presenter: Kristen Wiig
-Nominess: ['"Best Animated Film"', '"Best Animated Feature Film"', '"Big Heroes"', '"The Lego Movie"']
-Winner: "Best Animated Film"
-Attitude to Winner: {'Neutral': 0.6192, 'Positive': 0.3346, 'Negative': 0.046}
+Nominess: ["'The Lego Movie'", '"Best Animated Film"', '"Best Animated Feature Film"', '"The Lego Movie"', "'Best Animated Feature Film'"]
+Winner: 'The Lego Movie'
+Attitude to Winner: {'Neutral': 0.6738372093023253, 'Positive': 0.13786046511627906, 'Negative': 0.18832558139534877}
 
 Award Name: Best Foreign Language Film
 Presenter: Jennifer Aniston
-Nominess: ['"Leviathan"', '"Ida"', '"Best Foreign Language Film"', '"Tangerine"']
-Winner: "Leviathan"
-Attitude to Winner: {'Neutral': 0.6103200000000006, 'Positive': 0.3842199999999998, 'Negative': 0.00545}
+Nominess: ["'Leviathan'", '"Leviathan"', '"Ida"', '"Best Foreign Language Film"', "'Leviathon'"]
+Winner: 'Leviathan'
+Attitude to Winner: {'Neutral': 0.5855899999999999, 'Positive': 0.41326000000000007, 'Negative': 0.00115}
 
 Award Name: Best Performance By An Actress In A Supporting Role In A Motion Picture
 Presenter: Jared Leto
@@ -77,27 +77,27 @@ Attitude to Winner: {'Neutral': 0.8304600000000008, 'Positive': 0.16565000000000
 
 Award Name: Best Screenplay - Motion Picture
 Presenter: Kristen Wiig
-Nominess: ['"Birdman"', '"The Grand Budapest Hotel"', '"Boyhood"']
-Winner: "Birdman"
-Attitude to Winner: {'Neutral': 0.87702, 'Positive': 0.11112999999999999, 'Negative': 0.011850000000000001}
+Nominess: ["'Birdman'", '"Birdman"', '"The Grand Budapest Hotel"', '"Boyhood"']
+Winner: 'Birdman'
+Attitude to Winner: {'Neutral': 0.8488500000000001, 'Positive': 0.15115000000000003, 'Negative': 0.0}
 
 Award Name: Best Original Score - Motion Picture
 Presenter: Gina Rodriguez
-Nominess: ['"The Theory Of Everything"', '"Glory"']
+Nominess: ['"The Theory Of Everything"', "'The Theory Of Everything'", '"Glory"', "'Glory'"]
 Winner: "The Theory Of Everything"
 Attitude to Winner: {'Neutral': 0.7035100000000007, 'Positive': 0.28577999999999976, 'Negative': 0.010709999999999999}
 
 Award Name: Best Original Song - Motion Picture
 Presenter: John Legend
-Nominess: ['"Glory"', '"Selma"', '"Prediction"']
-Winner: "Glory"
-Attitude to Winner: {'Neutral': 0.64007, 'Positive': 0.35770000000000024, 'Negative': 0.0022400000000000002}
+Nominess: ["'Selma'", '"Glory"', "'Glory'", '"Selma"', '"Prediction"']
+Winner: 'Selma'
+Attitude to Winner: {'Neutral': 0.9595200000000002, 'Positive': 0.04048000000000001, 'Negative': 0.0}
 
 Award Name: Best Television Series - Drama
 Presenter: Paul Rudd
-Nominess: ['"The Affair"', '"Boyhood"', '"The Good Wife"', '"Hannibal"', '"The Lego Movie"']
-Winner: "The Affair"
-Attitude to Winner: {'Neutral': 0.6995899999999999, 'Positive': 0.28191999999999995, 'Negative': 0.018490000000000003}
+Nominess: ["'The Affair'", '"The Affair"', "'Boyhood'", '"Boyhood"', '"The Good Wife"']
+Winner: 'The Affair'
+Attitude to Winner: {'Neutral': 0.6847500000000002, 'Positive': 0.2543000000000002, 'Negative': 0.06096999999999999}
 
 Award Name: Best Performance By An Actress In A Television Series - Drama
 Presenter: Chris Pratt
@@ -113,9 +113,9 @@ Attitude to Winner: {'Neutral': 0.8545999999999999, 'Positive': 0.08818000000000
 
 Award Name: Best Television Series - Comedy Or Musical
 Presenter: Gina Rodriguez
-Nominess: ['"Transparent"', '"Transformation"', '"The Grand Budapest Hotel"']
-Winner: "Transparent"
-Attitude to Winner: {'Neutral': 0.51237, 'Positive': 0.4829600000000001, 'Negative': 0.00468}
+Nominess: ["'Transparent'", '"Transparent"', '"Transformation"', '"The Grand Budapest Hotel"']
+Winner: 'Transparent'
+Attitude to Winner: {'Neutral': 0.5141000000000004, 'Positive': 0.4806399999999996, 'Negative': 0.00526}
 
 Award Name: Best Performance By An Actress In A Television Series - Comedy Or Musical
 Presenter: Gina Rodriguez
@@ -128,6 +128,12 @@ Presenter: Kristen Wiig
 Nominess: ['Jeffrey Tambor', 'William H', 'Don Cheadle', 'Louis C', 'Ricky Gervais']
 Winner: Jeffrey Tambor
 Attitude to Winner: {'Neutral': 0.7165600000000001, 'Positive': 0.2536899999999999, 'Negative': 0.02974}
+
+Award Name: Best Mini-series Or Motion Picture Made For Television
+Presenter: Jeremy Renner
+Nominess: ["'Fargo'", '"Fargo"']
+Winner: 'Fargo'
+Attitude to Winner: {'Neutral': 0.6938000000000001, 'Positive': 0.2959900000000001, 'Negative': 0.01022}
 
 Award Name: Best Performance By An Actress In A Mini-series Or Motion Picture Made For Television
 Presenter: Tina Fey

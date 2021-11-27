@@ -6,21 +6,22 @@
     "Cecil B. Demille Award": {
         "Presenter:": "George Clooney",
         "Nominees:": [
+            "'The Affair'",
             "\"Great Friend\"",
             "\"The Facts Of Life\""
         ],
-        "Winner:": "\"Great Friend\""
+        "Winner:": "'The Affair'"
     },
     "Best Motion Picture - Drama": {
         "Presenter:": "Tina Fey",
         "Nominees:": [
+            "'Boyhood'",
             "\"Boyhood\"",
             "\"Selma\"",
-            "\"The Grand Budapest Hotel\"",
-            "\"Best Drama Motion Picture\"",
-            "\"Theory Of Everything\""
+            "'Boyhooyd'",
+            "\"The Grand Budapest Hotel\""
         ],
-        "Winner:": "\"Boyhood\""
+        "Winner:": "'Boyhood'"
     },
     "Best Performance By An Actress In A Motion Picture - Drama": {
         "Presenter:": "Jamie Dornan",
@@ -47,10 +48,13 @@
     "Best Motion Picture - Comedy Or Musical": {
         "Presenter:": "Robert Downey",
         "Nominees:": [
+            "'The Grand Budapest Hotel'",
             "\"The Grand Budapest Hotel\"",
-            "\"Grand Budapest Hotel\""
+            "\"Grand Budapest Hotel\"",
+            "'Birdman'",
+            "'Into The Woods'"
         ],
-        "Winner:": "\"The Grand Budapest Hotel\""
+        "Winner:": "'The Grand Budapest Hotel'"
     },
     "Best Performance By An Actress In A Motion Picture - Comedy Or Musical": {
         "Presenter:": "Ricky Gervais",
@@ -77,22 +81,24 @@
     "Best Animated Feature Film": {
         "Presenter:": "Kristen Wiig",
         "Nominees:": [
+            "'The Lego Movie'",
             "\"Best Animated Film\"",
             "\"Best Animated Feature Film\"",
-            "\"Big Heroes\"",
-            "\"The Lego Movie\""
+            "\"The Lego Movie\"",
+            "'Best Animated Feature Film'"
         ],
-        "Winner:": "\"Best Animated Film\""
+        "Winner:": "'The Lego Movie'"
     },
     "Best Foreign Language Film": {
         "Presenter:": "Jennifer Aniston",
         "Nominees:": [
+            "'Leviathan'",
             "\"Leviathan\"",
             "\"Ida\"",
             "\"Best Foreign Language Film\"",
-            "\"Tangerine\""
+            "'Leviathon'"
         ],
-        "Winner:": "\"Leviathan\""
+        "Winner:": "'Leviathan'"
     },
     "Best Performance By An Actress In A Supporting Role In A Motion Picture": {
         "Presenter:": "Jared Leto",
@@ -130,39 +136,44 @@
     "Best Screenplay - Motion Picture": {
         "Presenter:": "Kristen Wiig",
         "Nominees:": [
+            "'Birdman'",
             "\"Birdman\"",
             "\"The Grand Budapest Hotel\"",
             "\"Boyhood\""
         ],
-        "Winner:": "\"Birdman\""
+        "Winner:": "'Birdman'"
     },
     "Best Original Score - Motion Picture": {
         "Presenter:": "Gina Rodriguez",
         "Nominees:": [
             "\"The Theory Of Everything\"",
-            "\"Glory\""
+            "'The Theory Of Everything'",
+            "\"Glory\"",
+            "'Glory'"
         ],
         "Winner:": "\"The Theory Of Everything\""
     },
     "Best Original Song - Motion Picture": {
         "Presenter:": "John Legend",
         "Nominees:": [
+            "'Selma'",
             "\"Glory\"",
+            "'Glory'",
             "\"Selma\"",
             "\"Prediction\""
         ],
-        "Winner:": "\"Glory\""
+        "Winner:": "'Selma'"
     },
     "Best Television Series - Drama": {
         "Presenter:": "Paul Rudd",
         "Nominees:": [
+            "'The Affair'",
             "\"The Affair\"",
+            "'Boyhood'",
             "\"Boyhood\"",
-            "\"The Good Wife\"",
-            "\"Hannibal\"",
-            "\"The Lego Movie\""
+            "\"The Good Wife\""
         ],
-        "Winner:": "\"The Affair\""
+        "Winner:": "'The Affair'"
     },
     "Best Performance By An Actress In A Television Series - Drama": {
         "Presenter:": "Chris Pratt",
@@ -189,11 +200,12 @@
     "Best Television Series - Comedy Or Musical": {
         "Presenter:": "Gina Rodriguez",
         "Nominees:": [
+            "'Transparent'",
             "\"Transparent\"",
             "\"Transformation\"",
             "\"The Grand Budapest Hotel\""
         ],
-        "Winner:": "\"Transparent\""
+        "Winner:": "'Transparent'"
     },
     "Best Performance By An Actress In A Television Series - Comedy Or Musical": {
         "Presenter:": "Gina Rodriguez",
@@ -216,6 +228,14 @@
             "Ricky Gervais"
         ],
         "Winner:": "Jeffrey Tambor"
+    },
+    "Best Mini-series Or Motion Picture Made For Television": {
+        "Presenter:": "Jeremy Renner",
+        "Nominees:": [
+            "'Fargo'",
+            "\"Fargo\""
+        ],
+        "Winner:": "'Fargo'"
     },
     "Best Performance By An Actress In A Mini-series Or Motion Picture Made For Television": {
         "Presenter:": "Tina Fey",
