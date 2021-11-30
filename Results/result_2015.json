@@ -1,0 +1,316 @@
+{
+    "Host": [
+        "Tina Fey",
+        "Amy Poehler"
+    ],
+    "Awards": [
+        "best director - motion picture",
+        "best actor - motion picture drama",
+        "best screenplay - motion picture",
+        "best actress - motion picture drama",
+        "best actress - motion picture comedy / musical",
+        "best actress - tv series drama",
+        "best actor comedy / musical",
+        "best motion picture drama",
+        "best supporting actor - motion picture",
+        "best motion picture comedy / musical",
+        "best actress - comedy",
+        "best actor tv series drama",
+        "best original score - motion picture",
+        "best original song - motion picture",
+        "best screenplay award",
+        "best supporting actress - tv movie series / miniseries",
+        "best tv series comedy / musical",
+        "best tv series drama",
+        "best actress - miniseries / tv movie",
+        "best actor - tv comedy",
+        "best actor - miniseries / tv movie",
+        "best supporting actress - motion picture",
+        "best actor - mini-series / tv movie",
+        "best supporting actor - series mini-series / tv movie",
+        "best screenplay - motion pictures",
+        "best actress - tv comedy"
+    ],
+    "cecil b. demille award": {
+        "Presenter": "George Clooney",
+        "Nominees": [
+            "George Clooney",
+            "Julianna Margulies",
+            "Don Cheadle",
+            "Audrey Hepburn",
+            "Liza Minnelli"
+        ],
+        "Winner": "George Clooney"
+    },
+    "best motion picture - drama": {
+        "Presenter": "Tina Fey",
+        "Nominees": [
+            "Boyhood",
+            "Selma",
+            "Boyhooyd",
+            "The Grand Budapest Hotel",
+            "Best Drama Motion Picture"
+        ],
+        "Winner": "Boyhood"
+    },
+    "best performance by an actress in a motion picture - drama": {
+        "Presenter": "Jamie Dornan",
+        "Nominees": [
+            "Julianne Moore",
+            "Jennifer Aniston",
+            "Patricia Arquette",
+            "Rosamund Pike",
+            "Felicity Jones"
+        ],
+        "Winner": "Julianne Moore"
+    },
+    "best performance by an actor in a motion picture - drama": {
+        "Presenter": "Gwyneth Paltrow",
+        "Nominees": [
+            "Eddie Redmanye",
+            "David Oyelowo",
+            "Jake Gyllenhaal",
+            "Benedict Cumberbatch",
+            "Gwyneth Paltrow"
+        ],
+        "Winner": "Eddie Redmanye"
+    },
+    "best motion picture - comedy or musical": {
+        "Presenter": "Robert Downey",
+        "Nominees": [
+            "The Grand Budapest Hotel",
+            "Grand Budapest Hotel",
+            "Birdman",
+            "Into The Woods",
+            "Pride"
+        ],
+        "Winner": "The Grand Budapest Hotel"
+    },
+    "best performance by an actress in a motion picture - comedy or musical": {
+        "Presenter": "Ricky Gervais",
+        "Nominees": [
+            "Amy Adams",
+            "Marilyn Monroe",
+            "Helen Mirren",
+            "Julianne Moore",
+            "Emily Blunt"
+        ],
+        "Winner": "Amy Adams"
+    },
+    "best performance by an actor in a motion picture - comedy or musical": {
+        "Presenter": "Prince Presented",
+        "Nominees": [
+            "Michael Keaton",
+            "Bill Murray",
+            "Amy Adams",
+            "Ralph Fiennes",
+            "Jeffrey Tambor"
+        ],
+        "Winner": "Michael Keaton"
+    },
+    "best animated feature film": {
+        "Presenter": "Kristen Wiig",
+        "Nominees": [
+            "The Lego Movie",
+            "Best Animated Film",
+            "Best Animated Feature Film",
+            "The Book Of Life",
+            "Lego Movie"
+        ],
+        "Winner": "The Lego Movie"
+    },
+    "best foreign language film": {
+        "Presenter": "Jennifer Aniston",
+        "Nominees": [
+            "Leviathan",
+            "Ida",
+            "Best Foreign Language Film",
+            "Leviathon",
+            "Laviathan"
+        ],
+        "Winner": "Leviathan"
+    },
+    "best performance by an actress in a supporting role in a motion picture": {
+        "Presenter": "Jared Leto",
+        "Nominees": [
+            "Patricia Arquette",
+            "Joanne Froggatt",
+            "Emma Stone",
+            "Jared Leto",
+            "Jessica Chastain"
+        ],
+        "Winner": "Patricia Arquette"
+    },
+    "best performance by an actor in a supporting role in a motion picture": {
+        "Presenter": "Benedict Cumberbatch",
+        "Nominees": [
+            "Robert Duvall",
+            "Ben Affleck",
+            "Jennifer Aniston",
+            "Ethan Hawke",
+            "Edward Norton"
+        ],
+        "Winner": "Robert Duvall"
+    },
+    "best director - motion picture": {
+        "Presenter": "Harrison Ford",
+        "Nominees": [
+            "Richard Linklater",
+            "Ava Du",
+            "Wes Anderson",
+            "Ethan Haw",
+            "David Fincher"
+        ],
+        "Winner": "Richard Linklater"
+    },
+    "best screenplay - motion picture": {
+        "Presenter": "Kristen Wiig",
+        "Nominees": [
+            "Birdman",
+            "Good Will Hunting",
+            "Gone Girl",
+            "The Grand Budapest Hotel",
+            "Best Screenplay"
+        ],
+        "Winner": "Birdman"
+    },
+    "best original score - motion picture": {
+        "Presenter": "Gina Rodriguez",
+        "Nominees": [
+            "The Theory Of Everything",
+            "Best Original Score",
+            "Glory",
+            "Interstellar",
+            "Birdman"
+        ],
+        "Winner": "The Theory Of Everything"
+    },
+    "best original song - motion picture": {
+        "Presenter": "John Legend",
+        "Nominees": [
+            "Glory",
+            "Selma",
+            "Best Original Song",
+            "Yellow Flicker Beat",
+            "Opportunity"
+        ],
+        "Winner": "Glory"
+    },
+    "best television series - drama": {
+        "Presenter": "Paul Rudd",
+        "Nominees": [
+            "The Affair",
+            "Boyhood",
+            "The Good Wife",
+            "True Detective",
+            "Hannibal"
+        ],
+        "Winner": "The Affair"
+    },
+    "best performance by an actress in a television series - drama": {
+        "Presenter": "Chris Pratt",
+        "Nominees": [
+            "Ruth Wilson",
+            "Chris Pratt",
+            "Anna Faris",
+            "Viola Davis",
+            "Robin Wright"
+        ],
+        "Winner": "Ruth Wilson"
+    },
+    "best performance by an actor in a television series - drama": {
+        "Presenter": "Katherine Heigl",
+        "Nominees": [
+            "Kevin Spacey",
+            "David Duchovny",
+            "James Spader",
+            "Clive Owen",
+            "Dominic West"
+        ],
+        "Winner": "Kevin Spacey"
+    },
+    "best television series - comedy or musical": {
+        "Presenter": "Gina Rodriguez",
+        "Nominees": [
+            "Transparent",
+            "Transformation",
+            "The Grand Budapest Hotel"
+        ],
+        "Winner": "Transparent"
+    },
+    "best performance by an actress in a television series - comedy or musical": {
+        "Presenter": "Gina Rodriguez",
+        "Nominees": [
+            "Gina Rodriguez",
+            "Jane The",
+            "Julia Louis",
+            "Lena Dunham",
+            "Edie Falco"
+        ],
+        "Winner": "Gina Rodriguez"
+    },
+    "best performance by an actor in a television series - comedy or musical": {
+        "Presenter": "Kristen Wiig",
+        "Nominees": [
+            "Jeffrey Tambor",
+            "William H",
+            "Don Cheadle",
+            "Louis C",
+            "Ricky Gervais"
+        ],
+        "Winner": "Jeffrey Tambor"
+    },
+    "best mini-series or motion picture made for television": {
+        "Presenter": "Gina Rodriguez",
+        "Nominees": [
+            "Fargo",
+            "True Detective",
+            "Normal Heart"
+        ],
+        "Winner": "Fargo"
+    },
+    "best performance by an actress in a mini-series or motion picture made for television": {
+        "Presenter": "Jennifer Aniston",
+        "Nominees": [
+            "Maggie Gyllenhaal",
+            "Joanne Froggatt",
+            "Frances O",
+            "Michelle Monaghan",
+            "Kathy Bates"
+        ],
+        "Winner": "Maggie Gyllenhaal"
+    },
+    "best performance by an actor in a mini-series or motion picture made for television": {
+        "Presenter": "Gina Rodriguez",
+        "Nominees": [
+            "Billy Bob",
+            "Matthew Mc",
+            "Thornton Upsets",
+            "Matt Bomer",
+            "Jennifer Lopez"
+        ],
+        "Winner": "Billy Bob"
+    },
+    "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television": {
+        "Presenter": "Benedict Cumberbatch",
+        "Nominees": [
+            "Joanne Froggatt",
+            "Michelle Monaghan",
+            "Kathy Bates",
+            "Katie Segal",
+            "Maggie Gyllenhaal"
+        ],
+        "Winner": "Joanne Froggatt"
+    },
+    "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television": {
+        "Presenter": "Katie Holmes",
+        "Nominees": [
+            "Matt Bomer",
+            "Bob Thornton",
+            "Bill Murray",
+            "Angelina Jolie",
+            "Mark Ruffalo"
+        ],
+        "Winner": "Matt Bomer"
+    }
+}

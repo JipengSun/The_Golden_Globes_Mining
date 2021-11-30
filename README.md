@@ -10,6 +10,20 @@ run "python install -r requirements.txt"<br>
 run "python -m nltk.downloader vader_lexicon"<br>
 run "python -m nltk.downloader names"<br>
 
+## How to run the project
+
+To run this project and get benchmark score. Please follow procedures below:
+
+1. Run ./awards_mining.ipynb python notebook file. You can change the parameters at the first block of code. Remember, all the input data locates in ./Data folder.
+2. After 1st step, you can get two types of results under ./Results folder. 
+
+    1. One is human readable format txt file, containing following information: awards name, host name, presenter name of the award, nominees of the award, winner of the award, and tweeter attitude towards them. 
+
+    2. Another type is .json output for autograder, ggapi. It is used for getting benchmark score.
+
+3. Run the ./autograder.py file. It will read the output of the ./awards_mining.ipynb and compare with the global truth.
+4. If you want to test with another dataset. Please put your test dataset under ./Data folder. If you want to get benchmark score, you need to change the datapath in ./gg_api.py to find the corresponding output .json files since they are independent parts now.
+
 ## Github Link
 
 https://github.com/JipengSun/The_Golden_Globes_Mining
