@@ -1,0 +1,277 @@
+{
+    "Host": [
+        "Amy Poehler",
+        "Tina Fey"
+    ],
+    "Awards": [
+        "best director - motion picture",
+        "best actress - motion picture drama",
+        "best screenplay - motion picture",
+        "best actress - tv comedy / musical",
+        "best motion picture drama",
+        "best actress - motion picture comedy / musical",
+        "best actress - tv series drama",
+        "best actress - mini-series / tv movie",
+        "best actress drama",
+        "best supporting actor motion picture",
+        "best supporting actress tv series miniseries / tv movie",
+        "best supporting actress - motion picture",
+        "best motion picture comedy / musical",
+        "best actress tv series comedy",
+        "best actor - motion picture comedy / musical",
+        "best actor - motion picture drama",
+        "best actor - tv drama",
+        "best actor - miniseries / tv movie",
+        "best actor tv series - comedy / musical",
+        "best actress - miniseries / tv movie",
+        "best actress - comedy",
+        "best actor drama",
+        "best supporting actor - tv show miniseries / tv movie",
+        "best tv comedy / musical",
+        "best screenplay",
+        "best original song"
+    ],
+    "cecil b. demille award": {
+        "Presenter": "Jodie Foster",
+        "Nominees": [
+            "Jodie Foster",
+            "Cecile B",
+            "Robert Downey",
+            "Kristen Stewart",
+            "Simon Baker"
+        ],
+        "Winner": "Jodie Foster"
+    },
+    "best motion picture - drama": {
+        "Presenter": "Julia Roberts",
+        "Nominees": [
+            "Argo",
+            "Les Miserables"
+        ],
+        "Winner": "Argo"
+    },
+    "best performance by an actress in a motion picture - drama": {
+        "Presenter": "George Clooney",
+        "Nominees": [
+            "Jessica Chastain",
+            "Anne Hathaway",
+            "Les Mis",
+            "Naomi Watts",
+            "La Am"
+        ],
+        "Winner": "Jessica Chastain"
+    },
+    "best performance by an actor in a motion picture - drama": {
+        "Presenter": "George Clooney",
+        "Nominees": [
+            "Daniel Day",
+            "Abraham Lincoln",
+            "Lewis B"
+        ],
+        "Winner": "Daniel Day"
+    },
+    "best motion picture - comedy or musical": {
+        "Presenter": "Jeremy Renner",
+        "Nominees": [
+            "Les Miserables",
+            "Les Mis",
+            "LesMiserables"
+        ],
+        "Winner": "Les Miserables"
+    },
+    "best performance by an actress in a motion picture - comedy or musical": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Jennifer Lawrence",
+            "Anne Hathaway",
+            "Les Miserables"
+        ],
+        "Winner": "Jennifer Lawrence"
+    },
+    "best performance by an actor in a motion picture - comedy or musical": {
+        "Presenter": "Christian Bale",
+        "Nominees": [
+            "Hugh Jackman",
+            "Les Miserables"
+        ],
+        "Winner": "Hugh Jackman"
+    },
+    "best animated feature film": {
+        "Presenter": "Sacha Baron",
+        "Nominees": [
+            "Brave",
+            "Best Animated Film",
+            "Amour",
+            "Best Animated Movie",
+            "TED"
+        ],
+        "Winner": "Brave"
+    },
+    "best foreign language film": {
+        "Presenter": "Will Ferrell",
+        "Nominees": [
+            "Amour",
+            "Best Foreign Language"
+        ],
+        "Winner": "Amour"
+    },
+    "best performance by an actress in a supporting role in a motion picture": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Anne Hathaway",
+            "Les Miserables",
+            "Maggie Smith"
+        ],
+        "Winner": "Anne Hathaway"
+    },
+    "best performance by an actor in a supporting role in a motion picture": {
+        "Presenter": "Bradley Cooper",
+        "Nominees": [
+            "Christoph Waltz",
+            "Bradley Cooper",
+            "Kate Hudson",
+            "Ed Harris"
+        ],
+        "Winner": "Christoph Waltz"
+    },
+    "best director - motion picture": {
+        "Presenter": "Christian Bale",
+        "Nominees": [
+            "Ben Affleck",
+            "Quentin Tarantino"
+        ],
+        "Winner": "Ben Affleck"
+    },
+    "best screenplay - motion picture": {
+        "Presenter": "Robert Pattinson",
+        "Nominees": [
+            "Django Unchained",
+            "Django",
+            "Best Screenplay",
+            "Most Words"
+        ],
+        "Winner": "Django Unchained"
+    },
+    "best original score - motion picture": {
+        "Presenter": "Jennifer Lopez",
+        "Nominees": [
+            "Skyfall",
+            "Life Of Pi",
+            "Lincoln",
+            "Best Original Score"
+        ],
+        "Winner": "Skyfall"
+    },
+    "best original song - motion picture": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Skyfall",
+            "BEN",
+            "Best Original Song",
+            "For You",
+            "Life Of Pi"
+        ],
+        "Winner": "Skyfall"
+    },
+    "best television series - drama": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Homeland"
+        ],
+        "Winner": "Homeland"
+    },
+    "best performance by an actress in a television series - drama": {
+        "Presenter": "Will Ferrell",
+        "Nominees": [
+            "Claire Danes",
+            "Jessica Chastain",
+            "Lea Michele",
+            "Damian Lewis",
+            "Love Homeland"
+        ],
+        "Winner": "Claire Danes"
+    },
+    "best performance by an actor in a television series - drama": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Damian Lewis",
+            "Daniel Day",
+            "Claire Danes",
+            "Jeff Daniels",
+            "Bryan Cranston"
+        ],
+        "Winner": "Damian Lewis"
+    },
+    "best television series - comedy or musical": {
+        "Presenter": "Jay Leno",
+        "Nominees": [
+            "Girls",
+            "Finding Bigfoot"
+        ],
+        "Winner": "Girls"
+    },
+    "best performance by an actress in a television series - comedy or musical": {
+        "Presenter": "Robert Downey",
+        "Nominees": [
+            "Lena Dunham",
+            "Jennifer Lawrence",
+            "Amy Poehler"
+        ],
+        "Winner": "Lena Dunham"
+    },
+    "best performance by an actor in a television series - comedy or musical": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Don Cheadle",
+            "Hugh Jackman",
+            "Les Miserables",
+            "Jim Parsons"
+        ],
+        "Winner": "Don Cheadle"
+    },
+    "best mini-series or motion picture made for television": {
+        "Presenter": "Eva Longoria",
+        "Nominees": [
+            "Game Change"
+        ],
+        "Winner": "Game Change"
+    },
+    "best performance by an actress in a mini-series or motion picture made for television": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Julianne Moore",
+            "Maggie Smith",
+            "Tina Fey",
+            "Katie Couric",
+            "Nicole Kidman"
+        ],
+        "Winner": "Julianne Moore"
+    },
+    "best performance by an actor in a mini-series or motion picture made for television": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Kevin Costner",
+            "Ed Harris",
+            "Woody Harrelson",
+            "Benedict Cumberbatch",
+            "Bill Clinton"
+        ],
+        "Winner": "Kevin Costner"
+    },
+    "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television": {
+        "Presenter": "Dennis Quaid",
+        "Nominees": [
+            "Maggie Smith",
+            "Dennis Quaid",
+            "Kerry Washington"
+        ],
+        "Winner": "Maggie Smith"
+    },
+    "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television": {
+        "Presenter": "Bill Clinton",
+        "Nominees": [
+            "Ed Harris"
+        ],
+        "Winner": "Ed Harris"
+    }
+}

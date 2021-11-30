@@ -8,7 +8,11 @@ def get_hosts(year):
     '''Hosts is a list of one or more strings. Do NOT change the name
     of this function or what it returns.'''
     # Your code here
-    data_path = '../result.json'
+    # print(year)
+    if year == '2013':
+        data_path = '../result_2013.json'
+    elif year == '2015':
+        data_path = '../result_2015.json'
     with open(data_path) as f:
      data = json.load(f)
     hosts = data['Host']
@@ -19,7 +23,10 @@ def get_awards(year):
     '''Awards is a list of strings. Do NOT change the name
     of this function or what it returns.'''
     # Your code here
-    data_path = '../result.json'
+    if year == '2013':
+        data_path = '../result_2013.json'
+    elif year == '2015':
+        data_path = '../result_2015.json'
     with open(data_path) as f:
      data = json.load(f)
     awards = data['Awards']
@@ -31,7 +38,12 @@ def get_nominees(year):
     the name of this function or what it returns.'''
     # Your code here
     nominees = {}
-    data_path = '../result.json'
+
+    if year == '2013':
+        data_path = '../result_2013.json'
+    elif year == '2015':
+        data_path = '../result_2015.json'
+
     with open(data_path) as f:
      data = json.load(f)
     for k in data.keys():
@@ -45,7 +57,12 @@ def get_winner(year):
     Do NOT change the name of this function or what it returns.'''
     # Your code here
     winners = {}
-    data_path = '../result.json'
+    
+    if year == '2013':
+        data_path = '../result_2013.json'
+    elif year == '2015':
+        data_path = '../result_2015.json'
+        
     with open(data_path) as f:
      data = json.load(f)
     for k in data.keys():
@@ -59,7 +76,12 @@ def get_presenters(year):
     name of this function or what it returns.'''
     # Your code here
     presenters = {}
-    data_path = '../result.json'
+
+    if year == '2013':
+        data_path = '../result_2013.json'
+    elif year == '2015':
+        data_path = '../result_2015.json'
+        
     with open(data_path) as f:
      data = json.load(f)
     for k in data.keys():
