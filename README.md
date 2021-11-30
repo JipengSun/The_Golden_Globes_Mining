@@ -12,7 +12,7 @@ run "python -m nltk.downloader names"<br>
 
 ## How to run the project
 
-To run this project and get benchmark score. Please follow procedures below:
+To run this project and get benchmark score. Please put the dataset under the ./Data folder and follow procedures below:
 
 1. Run ./awards_mining.ipynb python notebook file. You can change the parameters at the first block of code. Remember, all the input data locates in ./Data folder.
 2. After 1st step, you can get two types of results under ./Results folder. 
