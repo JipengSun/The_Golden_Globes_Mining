@@ -181,7 +181,7 @@ def score_structured(year, answers, info_type):
     for a in answers['award_data']:
         if info_type == 'winner':
             temp_spelling, translation = calc_translation([results[a]], [answers['award_data'][a][info_type]])
-        else:
+        else:   
             temp_spelling, translation = calc_translation(results[a], answers['award_data'][a][info_type])
             c_score += calc_score([translation[res] if res in translation else res for res in results[a]], answers['award_data'][a][info_type])
         spelling_score += temp_spelling

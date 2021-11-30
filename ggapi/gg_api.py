@@ -22,6 +22,7 @@ def get_awards(year):
     data_path = '../result.json'
     with open(data_path) as f:
      data = json.load(f)
+    awards = data['Awards']
     return awards
 
 def get_nominees(year):
@@ -29,9 +30,13 @@ def get_nominees(year):
     names as keys, and each entry a list of strings. Do NOT change
     the name of this function or what it returns.'''
     # Your code here
+    nominees = {}
     data_path = '../result.json'
     with open(data_path) as f:
      data = json.load(f)
+    for k in data.keys():
+        if k != 'Host' and k != 'Awards':
+            nominees[k] = data[k]['Nominees']
     return nominees
 
 def get_winner(year):
@@ -39,9 +44,13 @@ def get_winner(year):
     names as keys, and each entry containing a single string.
     Do NOT change the name of this function or what it returns.'''
     # Your code here
+    winners = {}
     data_path = '../result.json'
     with open(data_path) as f:
      data = json.load(f)
+    for k in data.keys():
+        if k != 'Host'and k != 'Awards':
+            winners[k] = data[k]['Winner']
     return winners
 
 def get_presenters(year):
@@ -49,9 +58,13 @@ def get_presenters(year):
     names as keys, and each entry a list of strings. Do NOT change the
     name of this function or what it returns.'''
     # Your code here
+    presenters = {}
     data_path = '../result.json'
     with open(data_path) as f:
      data = json.load(f)
+    for k in data.keys():
+        if k != 'Host'and k != 'Awards':
+            presenters[k] = data[k]['Presenter']
     return presenters
 
 def pre_ceremony():
